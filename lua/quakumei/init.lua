@@ -1,3 +1,3 @@
 require("quakumei.remap")
-require("quakumei.packer")
 require("quakumei.set")
+require("quakumei.packer")
